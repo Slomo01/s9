@@ -1,0 +1,37 @@
+style{
+    font-size: 16px;
+    font-family: Arial;
+    color: #555;
+
+
+}
+#primero{
+    color: #369;
+
+}
+a{
+    color: #C30;
+
+}
+.primero em{
+    color: #0000BB;
+    background-color: #FFFFCC;
+}
+.especial em{
+    color: #FFFF00;
+    background-color: #000000;
+}
+.normal span{
+    font-weight: bold;
+}
+.especial{
+    background-color: black;
+     color: yellow;
+}
+.normal p{
+    color: #555;
+}
+#primero em{
+    background-color:rgb(228, 200, 149);
+}
+

@@ -1,0 +1,32 @@
+#ejemplos{
+    border-top: 3px solid #0066ff;
+    /*Establece el estilo, el ancho y el color del borde superior de un elemento*/
+
+
+    border-bottom: 2px dashed #00ff55;
+    /*Establece el estilo, el ancho y el color del borde inferior de un elemento*/
+
+
+    margin: 30px 10px 15px 5px;
+    /*Establece el espacio alrededor de un elemento, fuera de cualquier borde definido*/
+
+
+    padding: 10px 35px;
+    /*Establece el espacio dentro de un elemento, entre su contenido y su borde*/
+
+    
+    vertical-align: middle;
+    /*Especifica la alineación vertical de un elemento en línea o de celda*/
+
+
+    text-indent: 2em;
+    /*Establece la indentación de la primera línea de texto de un elemento*/
+
+
+    text-wrap: normal;
+    /*Controla cómo se ajusta el texto dentro de un elemento*/
+
+
+    -webkit-text-stroke: 1px #000000;
+    /*Establece el ancho y el color del trazo del texto*/
+}

@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+table{
+    border-collapse: collapse;
+    width: 903px;
+    height: 200px;
+    margin: 10px auto;
+    color: blue;
+}
+li{
+    padding: 10px;
+}
+h1{
+    padding: 10px;
+    color: brown;
+    text-align: justify;
+    font-family: "Times New Roman" ;
+}
